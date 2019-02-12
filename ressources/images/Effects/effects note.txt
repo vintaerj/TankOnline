@@ -1,0 +1,4 @@
+- explosion 1-3 for cannon&rocket bullet after collision
+- explosion 1-5 for all tank after destroyed
+- smoke 1-2 for all cannon & rocket type after shoot
+- all laser effect for all laser type after shoot and all laser bullet after collision
