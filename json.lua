@@ -376,6 +376,8 @@ local char_func_map = {
 }
 
 
+  
+
 parse = function(str, idx)
     local chr = str:sub(idx, idx)
     local f = char_func_map[chr]
@@ -397,6 +399,8 @@ function json.decode(str)
     end
     return res
 end
+
+
 
 
 return json
